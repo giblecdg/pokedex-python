@@ -1,0 +1,1059 @@
+{
+  "bulbasaur": [
+    "1",
+    "Bulbasaur",
+    "Grass/Poison",
+    "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
+    "bulbasaur.png"
+  ],
+  "ivysaur": [
+    "2",
+    "Ivysaur",
+    "Grass/Poison",
+    "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+    "ivysaur.png"
+  ],
+  "venusaur": [
+    "3",
+    "Venusaur",
+    "Grass/Poison",
+    "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+    "venusaur.png"
+  ],
+  "charmander": [
+    "4",
+    "Charmander",
+    "Fire",
+    "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
+    "charmander.png"
+  ],
+  "charmeleon": [
+    "5",
+    "Charmeleon",
+    "Fire",
+    "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
+    "charmeleon.png"
+  ],
+  "charizard": [
+    "6",
+    "Charizard",
+    "Fire/Flying",
+    "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
+    "charizard.png"
+  ],
+  "squirtle": [
+    "7",
+    "Squirtle",
+    "Water",
+    "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
+    "squirtle.png"
+  ],
+  "wartortle": [
+    "8",
+    "Wartortle",
+    "Water",
+    "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
+    "wartortle.png"
+  ],
+  "blastoise": [
+    "9",
+    "Blastoise",
+    "Water",
+    "A brutal Pokémon with pressurized water jets on its shell. They are used for high speed tackles.",
+    "blastoise.png"
+  ],
+  "caterpie": [
+    "10",
+    "Caterpie",
+    "Bug",
+    "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+    "caterpie.png"
+  ],
+  "metapod": [
+    "11",
+    "Metapod",
+    "Bug",
+    "This Pokémon is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+    "metapod.png"
+  ],
+  "butterfree": [
+    "12",
+    "Butterfree",
+    "Bug/Flying",
+    "In battle, it flaps its wings at great speed to release highly toxic dust into the air.",
+    "butterfree.png"
+  ],
+  "weedle": [
+    "13",
+    "Weedle",
+    "Bug/Poison",
+    "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
+    "weedle.png"
+  ],
+  "kakuna": [
+    "14",
+    "Kakuna",
+    "Bug/Poison",
+    "Almost incapable of moving, this Pokémon can only harden its shell to protect itself from predators.",
+    "kakuna.png"
+  ],
+  "beedrill": [
+    "15",
+    "Beedrill",
+    "Bug/Poison",
+    "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
+    "beedrill.png"
+  ],
+  "pidgey": [
+    "16",
+    "Pidgey",
+    "Normal/Flying",
+    "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+    "pidgey.png"
+  ],
+  "pidgeotto": [
+    "17",
+    "Pidgeotto",
+    "Normal/Flying",
+    "Very protective of its sprawling territorial area, this Pokémon will fiercely peck at any intruder.",
+    "pidgeotto.png"
+  ],
+  "pidgeot": [
+    "18",
+    "Pidgeot",
+    "Normal/Flying",
+    "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp.",
+    "pidgeot.png"
+  ],
+  "rattata": [
+    "19",
+    "Rattata",
+    "Normal",
+    "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
+    "rattata.png"
+  ],
+  "raticate": [
+    "20",
+    "Raticate",
+    "Normal",
+    "It uses its whiskers to maintain its balance. It apparently slows down if they are cut off.",
+    "raticate.png"
+  ],
+  "spearow": [
+    "21",
+    "Spearow",
+    "Normal/Flying",
+    "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
+    "spearow.png"
+  ],
+  "fearow": [
+    "22",
+    "Fearow",
+    "Normal/Flying",
+    "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
+    "fearow.png"
+  ],
+  "ekans": [
+    "23",
+    "Ekans",
+    "Poison",
+    "Moves silently and stealthily. Eats the eggs of birds, such as Pidgey and Spearow, whole.",
+    "ekans.png"
+  ],
+  "arbok": [
+    "24",
+    "Arbok",
+    "Poison",
+    "It is rumored that the ferocious warning markings on its belly differ from area to area.",
+    "arbok.png"
+  ],
+  "pikachu": [
+    "25",
+    "Pikachu",
+    "Electric",
+    "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
+    "pikachu.png"
+  ],
+  "raichu": [
+    "26",
+    "Raichu",
+    "Electric",
+    "Its long tail serves as a ground to protect itself from its own high voltage power.",
+    "raichu.png"
+  ],
+  "sandshrew": [
+    "27",
+    "Sandshrew",
+    "Ground",
+    "Burrows deep underground in arid locations far from water. It only emerges to hunt for food.",
+    "sandshrew.png"
+  ],
+  "sandslash": [
+    "28",
+    "Sandslash",
+    "Ground",
+    "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
+    "sandslash.png"
+  ],
+  "nidoran f": [
+    "29",
+    "Nidoran♀",
+    "Poison",
+    "Although small, its venomous barbs render this Pokémon dangerous. The female has smaller horns.",
+    "nidoran_f.png"
+  ],
+  "nidorina": [
+    "30",
+    "Nidorina",
+    "Poison",
+    "The female's horn develops slowly. Prefers physical attacks such as clawing and biting.",
+    "nidorina.png"
+  ],
+  "nidoqueen": [
+    "31",
+    "Nidoqueen",
+    "Poison/Ground",
+    "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.",
+    "nidoqueen.png"
+  ],
+  "nidoran m": [
+    "32",
+    "Nidoran♂",
+    "Poison",
+    "Its large ears are always kept upright. If it senses danger, it will attack with a poisonous sting.",
+    "nidoran_m.png"
+  ],
+  "nidorino": [
+    "33",
+    "Nidorino",
+    "Poison",
+    "An aggressive Pokémon that is quick to attack. The horn on its head secretes a powerful venom.",
+    "nidorino.png"
+  ],
+  "nidoking": [
+    "34",
+    "Nidoking",
+    "Poison/Ground",
+    "It uses its powerful tail in battle to smash, constrict, then break the prey's bones.",
+    "nidoking.png"
+  ],
+  "clefairy": [
+    "35",
+    "Clefairy",
+    "Fairy",
+    "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
+    "clefairy.png"
+  ],
+  "clefable": [
+    "36",
+    "Clefable",
+    "Fairy",
+    "A timid fairy Pokémon that is rarely seen. It will run and hide the moment it senses people.",
+    "clefable.png"
+  ],
+  "vulpix": [
+    "37",
+    "Vulpix",
+    "Fire",
+    "At the time of birth, it has just one tail. The tail splits from its tip as it grows older.",
+    "vulpix.png"
+  ],
+  "ninetales": [
+    "38",
+    "Ninetales",
+    "Fire",
+    "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.",
+    "ninetales.png"
+  ],
+  "jigglypuff": [
+    "39",
+    "Jigglypuff",
+    "Normal/Fairy",
+    "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+    "jigglypuff.png"
+  ],
+  "wigglytuff": [
+    "40",
+    "Wigglytuff",
+    "Normal/Fairy",
+    "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
+    "wigglytuff.png"
+  ],
+  "zubat": [
+    "41",
+    "Zubat",
+    "Poison/Flying",
+    "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
+    "zubat.png"
+  ],
+  "golbat": [
+    "42",
+    "Golbat",
+    "Poison/Flying",
+    "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+    "golbat.png"
+  ],
+  "oddish": [
+    "43",
+    "Oddish",
+    "Grass/Poison",
+    "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
+    "oddish.png"
+  ],
+  "gloom": [
+    "44",
+    "Gloom",
+    "Grass/Poison",
+    "The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey.",
+    "gloom.png"
+  ],
+  "vileplume": [
+    "45",
+    "Vileplume",
+    "Grass/Poison",
+    "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+    "vileplume.png"
+  ],
+  "paras": [
+    "46",
+    "Paras",
+    "Bug/Grass",
+    "Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host.",
+    "paras.png"
+  ],
+  "parasect": [
+    "47",
+    "Parasect",
+    "Bug/Grass",
+    "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
+    "parasect.png"
+  ],
+  "venonat": [
+    "48",
+    "Venonat",
+    "Bug/Poison",
+    "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.",
+    "venonat.png"
+  ],
+  "venomoth": [
+    "49",
+    "Venomoth",
+    "Bug/Poison",
+    "The dustlike scales covering its wings are color coded to indicate the kinds of poison it has.",
+    "venomoth.png"
+  ],
+  "diglett": [
+    "50",
+    "Diglett",
+    "Ground",
+    "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
+    "diglett.png"
+  ],
+  "dugtrio": [
+    "51",
+    "Dugtrio",
+    "Ground",
+    "A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
+    "dugtrio.png"
+  ],
+  "meowth": [
+    "52",
+    "Meowth",
+    "Normal",
+    "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
+    "meowth.png"
+  ],
+  "persian": [
+    "53",
+    "Persian",
+    "Normal",
+    "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
+    "persian.png"
+  ],
+  "psyduck": [
+    "54",
+    "Psyduck",
+    "Water",
+    "While lulling its enemies with its vacant look, this wily Pokémon will use psychokinetic powers.",
+    "psyduck.png"
+  ],
+  "golduck": [
+    "55",
+    "Golduck",
+    "Water",
+    "Often seen swimming elegantly by lake shores. It is often mistaken for the Japanese monster Kappa.",
+    "golduck.png"
+  ],
+  "mankey": [
+    "56",
+    "Mankey",
+    "Fighting",
+    "Extremely quick to anger. It could be docile one moment, then thrashing away the next instant.",
+    "mankey.png"
+  ],
+  "primeape": [
+    "57",
+    "Primeape",
+    "Fighting",
+    "Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.",
+    "primeape.png"
+  ],
+  "growlithe": [
+    "58",
+    "Growlithe",
+    "Fire",
+    "Very protective of its territory. It will bark and bite to repel intruders from its space.",
+    "growlithe.png"
+  ],
+  "arcanine": [
+    "59",
+    "Arcanine",
+    "Fire",
+    "A legendary Pokémon in China. Many people are charmed by its grace and beauty while running.",
+    "arcanine.png"
+  ],
+  "poliwag": [
+    "60",
+    "Poliwag",
+    "Water",
+    "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
+    "poliwag.png"
+  ],
+  "poliwhirl": [
+    "61",
+    "Poliwhirl",
+    "Water",
+    "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
+    "poliwhirl.png"
+  ],
+  "poliwrath": [
+    "62",
+    "Poliwrath",
+    "Water/Fighting",
+    "An adept swimmer at both the front crawl and breaststroke. Easily overtakes the best human swimmers.",
+    "poliwrath.png"
+  ],
+  "abra": [
+    "63",
+    "Abra",
+    "Psychic",
+    "Using its ability to read minds, it will identify impending danger and teleport to safety.",
+    "abra.png"
+  ],
+  "kadabra": [
+    "64",
+    "Kadabra",
+    "Psychic",
+    "It emits special alpha waves from its body that induce headaches just by being close by.",
+    "kadabra.png"
+  ],
+  "alakazam": [
+    "65",
+    "Alakazam",
+    "Psychic",
+    "Its brain can outperform a supercomputer. Its intelligence quotient is said to be 5,000.",
+    "alakazam.png"
+  ],
+  "machop": [
+    "66",
+    "Machop",
+    "Fighting",
+    "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
+    "machop.png"
+  ],
+  "machoke": [
+    "67",
+    "Machoke",
+    "Fighting",
+    "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",
+    "machoke.png"
+  ],
+  "machamp": [
+    "68",
+    "Machamp",
+    "Fighting",
+    "Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.",
+    "machamp.png"
+  ],
+  "bellsprout": [
+    "69",
+    "Bellsprout",
+    "Grass/Poison",
+    "A carnivorous Pokémon that traps and eats bugs. It uses its root feet to soak up needed moisture.",
+    "bellsprout.png"
+  ],
+  "weepinbell": [
+    "70",
+    "Weepinbell",
+    "Grass/Poison",
+    "It spits out poison powder to immobilize the enemy and then finishes it with a spray of acid.",
+    "weepinbell.png"
+  ],
+  "victreebel": [
+    "71",
+    "Victreebel",
+    "Grass/Poison",
+    "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+    "victreebel.png"
+  ],
+  "tentacool": [
+    "72",
+    "Tentacool",
+    "Water/Poison",
+    "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
+    "tentacool.png"
+  ],
+  "tentacruel": [
+    "73",
+    "Tentacruel",
+    "Water/Poison",
+    "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
+    "tentacruel.png"
+  ],
+  "geodude": [
+    "74",
+    "Geodude",
+    "Rock/Ground",
+    "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
+    "geodude.png"
+  ],
+  "graveler": [
+    "75",
+    "Graveler",
+    "Rock/Ground",
+    "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
+    "graveler.png"
+  ],
+  "golem": [
+    "76",
+    "Golem",
+    "Rock/Ground",
+    "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.",
+    "golem.png"
+  ],
+  "ponyta": [
+    "77",
+    "Ponyta",
+    "Fire",
+    "Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time.",
+    "ponyta.png"
+  ],
+  "rapidash": [
+    "78",
+    "Rapidash",
+    "Fire",
+    "Very competitive, this Pokémon will chase anything that moves fast in the hopes of racing it.",
+    "rapidash.png"
+  ],
+  "slowpoke": [
+    "79",
+    "Slowpoke",
+    "Water/Psychic",
+    "Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack.",
+    "slowpoke.png"
+  ],
+  "slowbro": [
+    "80",
+    "Slowbro",
+    "Water/Psychic",
+    "The Shellder that is latched onto Slowpoke's tail is said to feed on the host's leftover scraps.",
+    "slowbro.png"
+  ],
+  "magnemite": [
+    "81",
+    "Magnemite",
+    "Electric/Steel",
+    "Uses antigravity to stay suspended. Appears without warning and uses Thunder Wave and similar moves.",
+    "magnemite.png"
+  ],
+  "magneton": [
+    "82",
+    "Magneton",
+    "Electric/Steel",
+    "Formed by several Magnemite linked together. They frequently appear when sunspots flare up.",
+    "magneton.png"
+  ],
+  "farfetchd": [
+    "83",
+    "Farfetch’d",
+    "Normal/Flying",
+    "The plant stalk it holds is its weapon. The stalk is used like a sword to cut all sorts of things.",
+    "farfetchd.png"
+  ],
+  "doduo": [
+    "84",
+    "Doduo",
+    "Normal/Flying",
+    "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.",
+    "doduo.png"
+  ],
+  "dodrio": [
+    "85",
+    "Dodrio",
+    "Normal/Flying",
+    "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake.",
+    "dodrio.png"
+  ],
+  "seel": [
+    "86",
+    "Seel",
+    "Water",
+    "The protruding horn on its head is very hard. It is used for bashing through thick ice.",
+    "seel.png"
+  ],
+  "dewgong": [
+    "87",
+    "Dewgong",
+    "Water/Ice",
+    "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
+    "dewgong.png"
+  ],
+  "grimer": [
+    "88",
+    "Grimer",
+    "Poison",
+    "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.",
+    "grimer.png"
+  ],
+  "muk": [
+    "89",
+    "Muk",
+    "Poison",
+    "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+    "muk.png"
+  ],
+  "shellder": [
+    "90",
+    "Shellder",
+    "Water",
+    "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+    "shellder.png"
+  ],
+  "cloyster": [
+    "91",
+    "Cloyster",
+    "Water/Ice",
+    "When attacked, it launches its horns in quick volleys. Its innards have never been seen.",
+    "cloyster.png"
+  ],
+  "gastly": [
+    "92",
+    "Gastly",
+    "Ghost/Poison",
+    "Almost invisible, this gaseous Pokémon cloaks the target and puts it to sleep without notice.",
+    "gastly.png"
+  ],
+  "haunter": [
+    "93",
+    "Haunter",
+    "Ghost/Poison",
+    "Because of its ability to slip through block walls, it is said to be from another dimension.",
+    "haunter.png"
+  ],
+  "gengar": [
+    "94",
+    "Gengar",
+    "Ghost/Poison",
+    "Under a full moon, this Pokémon likes to mimic the shadows of people and laugh at their fright.",
+    "gengar.png"
+  ],
+  "onix": [
+    "95",
+    "Onix",
+    "Rock/Ground",
+    "As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.",
+    "onix.png"
+  ],
+  "drowzee": [
+    "96",
+    "Drowzee",
+    "Psychic",
+    "Puts enemies to sleep, then eats their dreams. Occasionally gets sick from eating only bad dreams.",
+    "drowzee.png"
+  ],
+  "hypno": [
+    "97",
+    "Hypno",
+    "Psychic",
+    "When it locks eyes with an enemy, it will use a mix of psi moves such as Hypnosis and Confusion.",
+    "hypno.png"
+  ],
+  "krabby": [
+    "98",
+    "Krabby",
+    "Water",
+    "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
+    "krabby.png"
+  ],
+  "kingler": [
+    "99",
+    "Kingler",
+    "Water",
+    "The large pincer has 10,000 horsepower strength. However, it is so heavy, it is difficult to aim.",
+    "kingler.png"
+  ],
+  "voltorb": [
+    "100",
+    "Voltorb",
+    "Electric",
+    "Usually found in power plants. Easily mistaken for a Poké Ball, it has zapped many people.",
+    "voltorb.png"
+  ],
+  "electrode": [
+    "101",
+    "Electrode",
+    "Electric",
+    "It stores electric energy under very high pressure. It often explodes with little or no provocation.",
+    "electrode.png"
+  ],
+  "exeggcute": [
+    "102",
+    "Exeggcute",
+    "Grass/Psychic",
+    "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
+    "exeggcute.png"
+  ],
+  "exeggutor": [
+    "103",
+    "Exeggutor",
+    "Grass/Psychic",
+    "Legend has it that on rare occasions, one of its heads will drop off and continue on as an Exeggcute.",
+    "exeggutor.png"
+  ],
+  "cubone": [
+    "104",
+    "Cubone",
+    "Ground",
+    "Because it never removes its skull helmet, no one has ever seen this Pokémon's real face.",
+    "cubone.png"
+  ],
+  "marowak": [
+    "105",
+    "Marowak",
+    "Ground",
+    "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
+    "marowak.png"
+  ],
+  "hitmonlee": [
+    "106",
+    "Hitmonlee",
+    "Fighting",
+    "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
+    "hitmonlee.png"
+  ],
+  "hitmonchan": [
+    "107",
+    "Hitmonchan",
+    "Fighting",
+    "Punches in corkscrew fashion. It can punch its way through a concrete wall like a drill.",
+    "hitmonchan.png"
+  ],
+  "lickitung": [
+    "108",
+    "Lickitung",
+    "Normal",
+    "Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies.",
+    "lickitung.png"
+  ],
+  "koffing": [
+    "109",
+    "Koffing",
+    "Poison",
+    "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
+    "koffing.png"
+  ],
+  "weezing": [
+    "110",
+    "Weezing",
+    "Poison",
+    "Where two kinds of poison gases meet, 2 Koffing can fuse into a Weezing over many years.",
+    "weezing.png"
+  ],
+  "rhyhorn": [
+    "111",
+    "Rhyhorn",
+    "Ground/Rock",
+    "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
+    "rhyhorn.png"
+  ],
+  "rhydon": [
+    "112",
+    "Rhydon",
+    "Ground/Rock",
+    "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees Fahrenheit.",
+    "rhydon.png"
+  ],
+  "chansey": [
+    "113",
+    "Chansey",
+    "Normal",
+    "A rare and elusive Pokémon that is said to bring happiness to those who manage to get it.",
+    "chansey.png"
+  ],
+  "tangela": [
+    "114",
+    "Tangela",
+    "Grass",
+    "The whole body is swathed with wide vines that are similar to seaweed. The vines sway as it walks.",
+    "tangela.png"
+  ],
+  "kangaskhan": [
+    "115",
+    "Kangaskhan",
+    "Normal",
+    "The infant rarely ventures out of its mother's protective pouch until it is 3 years old.",
+    "kangaskhan.png"
+  ],
+  "horsea": [
+    "116",
+    "Horsea",
+    "Water",
+    "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
+    "horsea.png"
+  ],
+  "seadra": [
+    "117",
+    "Seadra",
+    "Water",
+    "Capable of swimming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
+    "seadra.png"
+  ],
+  "goldeen": [
+    "118",
+    "Goldeen",
+    "Water",
+    "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
+    "goldeen.png"
+  ],
+  "seaking": [
+    "119",
+    "Seaking",
+    "Water",
+    "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.",
+    "seaking.png"
+  ],
+  "staryu": [
+    "120",
+    "Staryu",
+    "Water",
+    "An enigmatic Pokémon that can effortlessly regenerate any appendage it loses in battle.",
+    "staryu.png"
+  ],
+  "starmie": [
+    "121",
+    "Starmie",
+    "Water/Psychic",
+    "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
+    "starmie.png"
+  ],
+  "mr. mime": [
+    "122",
+    "Mr. Mime",
+    "Psychic/Fairy",
+    "If interrupted while it is miming, it will slap around the offender with its broad hands.",
+    "mr_mime.png"
+  ],
+  "scyther": [
+    "123",
+    "Scyther",
+    "Bug/Flying",
+    "With ninja-like agility and speed, it can create the illusion that there is more than one.",
+    "scyther.png"
+  ],
+  "jynx": [
+    "124",
+    "Jynx",
+    "Ice/Psychic",
+    "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
+    "jynx.png"
+  ],
+  "electabuzz": [
+    "125",
+    "Electabuzz",
+    "Electric",
+    "Normally found near power plants, they can wander away and cause major blackouts in cities.",
+    "electabuzz.png"
+  ],
+  "magmar": [
+    "126",
+    "Magmar",
+    "Fire",
+    "Its body always burns with an orange glow that enables it to hide perfectly among flames.",
+    "magmar.png"
+  ],
+  "pinsir": [
+    "127",
+    "Pinsir",
+    "Bug",
+    "If it fails to crush the foe in its pincers, it will swing it around and toss it hard.",
+    "pinsir.png"
+  ],
+  "tauros": [
+    "128",
+    "Tauros",
+    "Normal",
+    "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
+    "tauros.png"
+  ],
+  "magikarp": [
+    "129",
+    "Magikarp",
+    "Water",
+    "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
+    "magikarp.png"
+  ],
+  "gyarados": [
+    "130",
+    "Gyarados",
+    "Water/Flying",
+    "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.",
+    "gyarados.png"
+  ],
+  "lapras": [
+    "131",
+    "Lapras",
+    "Water/Ice",
+    "A Pokémon that has been overhunted almost to extinction. It can ferry people across the water.",
+    "lapras.png"
+  ],
+  "ditto": [
+    "132",
+    "Ditto",
+    "Normal",
+    "Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.",
+    "ditto.png"
+  ],
+  "eevee": [
+    "133",
+    "Eevee",
+    "Normal",
+    "Its genetic code is irregular. It may mutate if it is exposed to radiation from element Stones.",
+    "eevee.png"
+  ],
+  "vaporeon": [
+    "134",
+    "Vaporeon",
+    "Water",
+    "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
+    "vaporeon.png"
+  ],
+  "jolteon": [
+    "135",
+    "Jolteon",
+    "Electric",
+    "It accumulates negative ions in the atmosphere to blast out 10000-volt lightning bolts.",
+    "jolteon.png"
+  ],
+  "flareon": [
+    "136",
+    "Flareon",
+    "Fire",
+    "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
+    "flareon.png"
+  ],
+  "porygon": [
+    "137",
+    "Porygon",
+    "Normal",
+    "A Pokémon that consists entirely of programming code. Capable of moving freely in cyberspace.",
+    "porygon.png"
+  ],
+  "omanyte": [
+    "138",
+    "Omanyte",
+    "Rock/Water",
+    "Although long extinct, in rare cases, it can be genetically resurrected from fossils.",
+    "omanyte.png"
+  ],
+  "omastar": [
+    "139",
+    "Omastar",
+    "Rock/Water",
+    "A prehistoric Pokémon that died out when its heavy shell made it impossible to catch prey.",
+    "omastar.png"
+  ],
+  "kabuto": [
+    "140",
+    "Kabuto",
+    "Rock/Water",
+    "A Pokémon that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+    "kabuto.png"
+  ],
+  "kabutops": [
+    "141",
+    "Kabutops",
+    "Rock/Water",
+    "Its sleek shape is perfect for swimming. It slashes prey with its claws and drains the body fluids.",
+    "kabutops.png"
+  ],
+  "aerodactyl": [
+    "142",
+    "Aerodactyl",
+    "Rock/Flying",
+    "A ferocious, prehistoric Pokémon that goes for the enemy's throat with its serrated, saw-like fangs.",
+    "aerodactyl.png"
+  ],
+  "snorlax": [
+    "143",
+    "Snorlax",
+    "Normal",
+    "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
+    "snorlax.png"
+  ],
+  "articuno": [
+    "144",
+    "Articuno",
+    "Ice/Flying",
+    "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
+    "articuno.png"
+  ],
+  "zapdos": [
+    "145",
+    "Zapdos",
+    "Electric/Flying",
+    "A legendary bird Pokémon that is said to appear from clouds while dropping enormous lightning bolts.",
+    "zapdos.png"
+  ],
+  "moltres": [
+    "146",
+    "Moltres",
+    "Fire/Flying",
+    "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flare of flames.",
+    "moltres.png"
+  ],
+  "dratini": [
+    "147",
+    "Dratini",
+    "Dragon",
+    "Long considered a mythical Pokémon until recently when a small colony was found living underwater.",
+    "dratini.png"
+  ],
+  "dragonair": [
+    "148",
+    "Dragonair",
+    "Dragon",
+    "A mystical Pokémon that exudes a gentle aura. Has the ability to change climate conditions.",
+    "dragonair.png"
+  ],
+  "dragonite": [
+    "149",
+    "Dragonite",
+    "Dragon/Flying",
+    "An extremely rarely seen marine Pokémon. Its intelligence is said to match that of humans.",
+    "dragonite.png"
+  ],
+  "mewtwo": [
+    "150",
+    "Mewtwo",
+    "Psychic",
+    "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
+    "mewtwo.png"
+  ],
+  "mew": [
+    "151",
+    "Mew",
+    "Psychic",
+    "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+    "mew.png"
+  ]
+}
